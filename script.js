@@ -36,6 +36,7 @@ angular.module('App', []).controller('CrudCtrl', ['$scope',
         country : "",
         editable : true
 	   })
+	   
 	 }
 	}
 ]);
